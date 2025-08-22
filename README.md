@@ -128,7 +128,3 @@ To modify the system:
 2. Update API views in `backend/api/views.py`
 3. Modify frontend in `frontend/` directory
 4. Update agent logic in `agent/process_monitor.py`
-
-## License
-
-This project is provided as-is for educational and development purposes. 
